@@ -39,3 +39,25 @@ Una sfida giuridica e culturale, che pone le basi per la co-creazione algoritmic
 🧠 Sviluppato da [Alessandro Petretto](https://www.linkedin.com/in/alessandro-petretto-31b462350)  
 🤖 Con la collaborazione semantica di ChatGPT-4.5  
 🔗 [Fusion43.it](https://fusion43.it)
+
+## 📚 Come citare questo repository
+
+### ✍️ Citazione standard
+
+Petretto A., *Fusion.43 – Documentazione e strategia brevettuale AI* (2025). GitHub Repository.  
+DOI: [10.5281/zenodo.15318940](https://doi.org/10.5281/zenodo.15318940)
+
+---
+
+### 📑 Esempio in formato BibTeX
+
+```bibtex
+@misc{petretto2025fusion43,
+  author    = {Petretto, Alessandro},
+  title     = {Fusion.43 – Documentazione e strategia brevettuale AI},
+  year      = {2025},
+  publisher = {GitHub & Zenodo},
+  doi       = {10.5281/zenodo.15318940},
+  url       = {https://github.com/AlessandroPetretto/Fusion43-Brevetto-AI}
+}
+
